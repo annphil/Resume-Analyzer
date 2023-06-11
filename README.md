@@ -65,6 +65,6 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 
 ## License
 
-Please note that this markdown file assumes the presence of an existing license file named "LICENSE" in the repository.
+License okke varum appo ningal kando
 
 
