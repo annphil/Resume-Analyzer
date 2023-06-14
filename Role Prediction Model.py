@@ -1,10 +1,5 @@
 import numpy as np
 import pandas as pd
-import matplotlib.pyplot as plt
-import seaborn as sns
-sns.set_style('darkgrid')
-#import warnings
-#warnings.filterwarnings('ignore')
 import re     #Regex - To clean data by substitution of symbols
 import nltk
 from sklearn.preprocessing import LabelEncoder
@@ -13,7 +8,7 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.multiclass import OneVsRestClassifier
 from sklearn.neighbors import KNeighborsClassifier
 
-df = pd.read_csv('./UpdatedResumeDataSet.csv')
+df = pd.read_csv('UpdatedResumeDataSet.csv')
 
 #Pre-processing
 
