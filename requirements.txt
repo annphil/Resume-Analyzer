@@ -1,0 +1,16 @@
+streamlit
+nltk
+spacy
+docx2txt
+PyPDF2
+pdfminer.six
+pymysql
+base64
+pyresparser
+language_tool_python
+reportlab
+scikit-learn
+numpy
+pandas
+ipywidgets
+IPython
